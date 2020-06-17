@@ -1,10 +1,5 @@
 This is a K-Means sample made in Java.
 
-´´´
-,-.___,-.
-\_/_ _\_/
-  )O_O(
- { (_) }
-  `-^-' 
+To use this code you have to download JFreeChart library
 
-´´´
+http://www.jfree.org/jfreechart/
